@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/FirstPerson/Blueprints/BP_TestCube.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/GU/FOHMGR4QCYMCHS6ZTXW036.uasset"
+			]
+		}
+	]
+}
