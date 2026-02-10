@@ -4,7 +4,23 @@
 		{
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
-			"files": []
+			"files": [
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/__ExternalActors__/Encounters/Lvl_WarRoom/8/0P/I4PGHFPH5HKMECEOHHGF97.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/__ExternalActors__/Encounters/Lvl_WarRoom/E/KE/DXBGQZJQKJVDEEUFWOWZKT.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/__ExternalActors__/Encounters/Lvl_WarRoom/E/HP/JB860OUKFTKFGI6ZVO94NC.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/__ExternalActors__/Encounters/Lvl_WarRoom/D/S9/5FI7VWILXF9V9YVARGIUMX.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/__ExternalActors__/Encounters/Lvl_WarRoom/B/CN/4PY7ZGNGBNVC6XI7W9VK1F.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/__ExternalActors__/Encounters/Lvl_WarRoom/5/PJ/ZWMU43UK6OIPF5MHWDO9NC.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/__ExternalActors__/Encounters/Lvl_WarRoom/3/C9/8X80XA0WYCKO8QWSOIQT6F.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/__ExternalActors__/Encounters/Lvl_WarRoom/0/R3/8OGBWCN3E4DAVKZC62ZEL3.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/__ExternalActors__/Encounters/Lvl_WarRoom/E/G9/AI2UIJU2GDEUGRNU07IDSQ.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/__ExternalActors__/Encounters/Lvl_WarRoom/A/N0/C9VA663ADY43Y3RENH608C.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/__ExternalActors__/Encounters/Lvl_WarRoom/0/Z7/9NCDVAFKBJ37BVNDUTF12H.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/__ExternalActors__/Encounters/Lvl_WarRoom/A/SN/UHT7C82SMHLIHJH7KDV0Q8.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/__ExternalActors__/Encounters/Lvl_WarRoom/C/XS/9OI1EIT0RBOEKTFOXN9E4D.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/__ExternalActors__/Encounters/Lvl_WarRoom/D/MG/UI81HHOOL8A4G9PB893CGC.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/__ExternalActors__/Encounters/Lvl_WarRoom/D/NI/3WET41N9TZ0MDVWNU77B9U.uasset"
+			]
 		}
 	]
 }
