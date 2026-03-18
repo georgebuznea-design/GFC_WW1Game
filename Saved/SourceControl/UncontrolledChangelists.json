@@ -4,7 +4,45 @@
 		{
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
-			"files": []
+			"files": [
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Enviroment/Houses_Actors/House_1.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Materials/M_Slate.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Materials/M_Concrete.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Materials/M_BrickWall.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Materials/M_Wood.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Enviroment/BelgianHouses_Kit/SM_DoorFrame.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Enviroment/BelgianHouses_Kit/SM_RoofCap.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Enviroment/BelgianHouses_Kit/SM_RoofLong.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Enviroment/BelgianHouses_Kit/SM_RoofSideWallLong.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Enviroment/BelgianHouses_Kit/SM_RoofSideWallTall.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Enviroment/BelgianHouses_Kit/SM_RoofTall.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Enviroment/BelgianHouses_Kit/SM_RoofWindowLong.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Enviroment/BelgianHouses_Kit/SM_RoofWindowTall.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Enviroment/BelgianHouses_Kit/SM_StubbyWindowFrame.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Enviroment/BelgianHouses_Kit/SM_TallWindowFrame.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Enviroment/BelgianHouses_Kit/SM_Wall1M.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Enviroment/BelgianHouses_Kit/SM_Wall2M.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Materials/TextureMaps/Concrete_ambientocclusion.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Materials/TextureMaps/Concrete_basecolor.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Materials/TextureMaps/Concrete_normal.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Materials/TextureMaps/Concrete_roughness.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Materials/TextureMaps/GFC_WW1_SlateTexture_ambientocclusion.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Materials/TextureMaps/GFC_WW1_SlateTexture_basecolor.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Materials/TextureMaps/GFC_WW1_SlateTexture_normal.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Materials/TextureMaps/GFC_WW1_SlateTexture_roughness.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Materials/TextureMaps/GFC_WW1_WoodMaster_ambientocclusion.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Materials/TextureMaps/GFC_WW1_WoodMaster_basecolor.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Materials/TextureMaps/GFC_WW1_WoodMaster_normal.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Materials/TextureMaps/GFC_WW1_WoodMaster_roughness.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Materials/TextureMaps/StoneWall_ambientocclusion.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Materials/TextureMaps/StoneWall_basecolor.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Materials/TextureMaps/StoneWall_normal.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/3D_Assets/Materials/TextureMaps/StoneWall_roughness.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/__ExternalActors__/Encounters/Lvl_EnamyAmbush/1/W2/K8LDG84CLCRHN41ZND070K.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/__ExternalActors__/Encounters/Lvl_EnamyAmbush/8/5H/0JG9WUO5J1XGUOHOWPFRCY.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/__ExternalActors__/Encounters/Lvl_EnamyAmbush/E/ZW/SH14P3NY3I0TND7XMB5IQ9.uasset",
+				"C:/Users/Boom Student/Documents/GitHub/GFC_WW1Game/Content/__ExternalActors__/Encounters/Lvl_EnamyAmbush/D/5B/I3RZ5K0V9ZLSNPAT9IH02A.uasset"
+			]
 		}
 	]
 }
